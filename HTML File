@@ -1,0 +1,50 @@
+Just some random work I did for HTML programming
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>
+        <CPAN-134>
+    </title>
+</head>
+
+<body>
+    <!--Code to take you to the website after clicking on the appropriate word-->
+    <h1>CPAN-134 Web Programming and Design</h1>
+    <h2>Humber College</h2>
+    <div>
+        <nav>
+            <a href="http://www.google.ca">Google</a>
+            <a href="http://www.youtube.com">YouTube</a>
+            <a href="http://www.twitch.tv">Twitch</a>
+        </nav>
+    </div>
+
+    <!--Code to link the image in and get it to display-->
+    <div>
+        <main>
+            <section>
+                <p>Welcome to CPAN &gt;&gt;&gt;&gt;&gt;<sup>134</sup>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <sub>126</sub></p>
+                <img src="link.jpg" height="350" width="350" alt="Link">
+            </section>
+            <section>
+                <br>
+                <ul>
+                    <li>CPAN 134</li>
+                    <li>CPAN 253</li>
+                    <li>CPAN 321</li>
+                </ul>
+            </section>
+        </main>
+    </div>
+
+    <div>
+        <footer>
+            <p>Contact Information</p>
+        </footer>
+    </div>
+</body>
+<html>
